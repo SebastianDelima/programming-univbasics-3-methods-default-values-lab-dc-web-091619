@@ -1,5 +1,5 @@
 # Your code here
 def meal_choice(protein = "meat", veg1, veg2)
   puts "What a nutritious meal!"
-   "A plate of #{veg1} with #{veg1} and #{protein}."
+   "A plate of #{veg1} with #{veg2} and #{protein}."
 end
